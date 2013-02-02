@@ -1,5 +1,5 @@
    	 	
-# APN Push Notifications for Rails #
+# Implementing Apple Push Notification Service in Rails #
 
 ## Push Notifications Overview ##
 
