@@ -56,7 +56,7 @@ app.save
 ```
 The code creates a new APN::App, adds a  Developer certificate and saves it to the database.
 
-## Registering the devices of the users to your Rails Application ## 
+## Registering the devices of the users to your Rails Application 
 
 After registering the app for push notifications, The next step is to register the devices of all the users of your Application. Registering the user devices to the service is through there “device tokens”. When the user registers to the app in the “client side”, the device token is retrieved and sent to the “Rails App” in the POST request.
 
