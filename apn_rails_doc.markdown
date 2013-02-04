@@ -100,7 +100,7 @@ APN::App.send_notifications
 
 ## Group Notifications ##
 
-The gem does has support for group notificatiosn too. Sending messages to many devices at the same time.
+The gem does has support for group notifications too. Sending messages to many devices at the same time.
 
 ### Get all the registered devices using ###
 
